@@ -9,10 +9,9 @@ On this project the main tasks performed have been:
 - Creation of train/test files
 - Benchmark models of mono+poly datasets
 - Benchmark models of mono and poly models separated
-
-Techniques used to improve models:
-- Data Augmentation
-- Weight balancing
-- Transfer Learning with VGG16
-- Oversampling for mono dataset
-- K-folds to evaluate best models
+- Techniques used to improve models:
+  - Data Augmentation
+  - Weight balancing
+  - Transfer Learning with VGG16
+  - Oversampling for mono dataset
+  - K-folds to evaluate best models
