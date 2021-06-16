@@ -12,6 +12,8 @@ On this project the main tasks performed have been:
 - Techniques used to improve models:
   - Data Augmentation
   - Weight balancing
+  - L2 regularization
   - Transfer Learning with VGG16
+  - Early stopping with validation_AUC
   - Oversampling for mono dataset
   - K-folds to evaluate best models
